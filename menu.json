@@ -223,4 +223,11 @@
     "precioBase": 50.0,
     "categoria": "Bebidas"
   }
+  {
+    "id": 106,
+    "nombre": "Cerveza  Modelo",
+    "descripcion": "Bien fría lista para acompañar snacks",
+    "precioBase": 90.0,
+    "categoria": "Bebidas"
+  }
 ]
