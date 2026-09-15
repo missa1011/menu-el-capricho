@@ -1,0 +1,226 @@
+[
+  {
+    "id": 5,
+    "nombre": "Hamburguesa Doble",
+    "descripcion": "Doble carne de la casa, queso y tocino (con papas)",
+    "precioBase": 90.0,
+    "categoria": "Burgers"
+  },
+  {
+    "id": 6,
+    "nombre": "Hamburguesa Res",
+    "descripcion": "Carne de res jugosa con vegetales (con papas)",
+    "precioBase": 75.0,
+    "categoria": "Burgers"
+  },
+  {
+    "id": 7,
+    "nombre": "Búfalo Chicken Burger",
+    "descripcion": "Pollo frito jugoso con aderezo búfalo (con papas)",
+    "precioBase": 95.0,
+    "categoria": "Burgers"
+  },
+  {
+    "id": 8,
+    "nombre": "BBQ Chicken Burger",
+    "descripcion": "Pollo frito jugoso con aderezo BBQ (con papas)",
+    "precioBase": 95.0,
+    "categoria": "Burgers"
+  },
+  {
+    "id": 9,
+    "nombre": "Fried Chicken Burger",
+    "descripcion": "Pollo frito crujiente con queso (con papas)",
+    "precioBase": 90.0,
+    "categoria": "Burgers"
+  },
+  {
+    "id": 10,
+    "nombre": "Pollo Empanizado",
+    "descripcion": "Hamburguesa de pollo tradicional (con papas)",
+    "precioBase": 85.0,
+    "categoria": "Burgers"
+  },
+  {
+    "id": 1,
+    "nombre": "Bowl Arrachera",
+    "descripcion": "Papas fritas con arrachera y queso fundido",
+    "precioBase": 100.0,
+    "categoria": "Bowls"
+  },
+  {
+    "id": 2,
+    "nombre": "Bowl Pastor",
+    "descripcion": "Papas fritas con pastor y queso gratinado",
+    "precioBase": 95.0,
+    "categoria": "Bowls"
+  },
+  {
+    "id": 3,
+    "nombre": "Bowl Boneless",
+    "descripcion": "Papas fritas con boneless bañados",
+    "precioBase": 115.0,
+    "categoria": "Bowls"
+  },
+  {
+    "id": 4,
+    "nombre": "Bowl Pollo",
+    "descripcion": "Papas fritas con tiras de pollo y queso",
+    "precioBase": 85.0,
+    "categoria": "Bowls"
+  },
+  {
+    "id": 14,
+    "nombre": "Doogo",
+    "descripcion": "Hot dog con guacamole, tocino y ruffles molidos",
+    "precioBase": 50.0,
+    "categoria": "Hot Dogs"
+  },
+  {
+    "id": 15,
+    "nombre": "Hot Chicken",
+    "descripcion": "Hot dog relleno de pollo crujiente y queso",
+    "precioBase": 55.0,
+    "categoria": "Hot Dogs"
+  },
+  {
+    "id": 16,
+    "nombre": "Pastor Dog",
+    "descripcion": "Hot dog con carne al pastor y queso",
+    "precioBase": 55.0,
+    "categoria": "Hot Dogs"
+  },
+  {
+    "id": 17,
+    "nombre": "Hot Dog Sencillo",
+    "descripcion": "Clásico con aderezos tradicionales",
+    "precioBase": 35.0,
+    "categoria": "Hot Dogs"
+  },
+  {
+    "id": 18,
+    "nombre": "Boneless (300g)",
+    "descripcion": "300g de boneless con aderezo a elección",
+    "precioBase": 110.0,
+    "categoria": "Snacks"
+  },
+  {
+    "id": 19,
+    "nombre": "Alitas Orden",
+    "descripcion": "Orden completa de alitas sazonadas",
+    "precioBase": 130.0,
+    "categoria": "Snacks"
+  },
+  {
+    "id": 20,
+    "nombre": "Alitas Media Orden",
+    "descripcion": "Media orden para botanear",
+    "precioBase": 70.0,
+    "categoria": "Snacks"
+  },
+  {
+    "id": 21,
+    "nombre": "Papas Arregladas",
+    "descripcion": "Papas a la francesa con queso amarillo y tocino",
+    "precioBase": 55.0,
+    "categoria": "Snacks"
+  },
+  {
+    "id": 22,
+    "nombre": "Papas Fritas Sencillas",
+    "descripcion": "Orden clásica de papas a la francesa",
+    "precioBase": 45.0,
+    "categoria": "Snacks"
+  },
+  {
+    "id": 11,
+    "nombre": "Capriburger Minis",
+    "descripcion": "Minis con guacamole, tocino y papas a la francesa",
+    "precioBase": 150.0,
+    "categoria": "Minis"
+  },
+  {
+    "id": 12,
+    "nombre": "Minis Sencillas",
+    "descripcion": "Mini hamburguesas acompañadas de papas",
+    "precioBase": 120.0,
+    "categoria": "Minis"
+  },
+  {
+    "id": 13,
+    "nombre": "Manchego Bites",
+    "descripcion": "Mini hamburguesas con queso fundido para sopear",
+    "precioBase": 100.0,
+    "categoria": "Minis"
+  },
+  {
+    "id": 103,
+    "nombre": "Coca-Cola 600ml",
+    "descripcion": "Refresco embotellado frío",
+    "precioBase": 28.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 104,
+    "nombre": "Sprite 600ml",
+    "descripcion": "Refresco sabor lima limón frío",
+    "precioBase": 28.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 107,
+    "nombre": "Powerade",
+    "descripcion": "Bebida hidratante de 500ml",
+    "precioBase": 32.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 108,
+    "nombre": "Fuzetea",
+    "descripcion": "Té helado sabor durazno o limón",
+    "precioBase": 25.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 109,
+    "nombre": "Boing",
+    "descripcion": "Bebida de fruta de cartón",
+    "precioBase": 25.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 110,
+    "nombre": "Agua Natural",
+    "descripcion": "Agua embotellada de 600ml",
+    "precioBase": 20.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 101,
+    "nombre": "Agua de Horchata (1L)",
+    "descripcion": "Agua fresca de la casa bien fría",
+    "precioBase": 35.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 102,
+    "nombre": "Agua de Jamaica (1L)",
+    "descripcion": "Agua fresca natural preparada al día",
+    "precioBase": 35.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 105,
+    "nombre": "Cerveza Corona Mega",
+    "descripcion": "Bien helada con escarchado opcional",
+    "precioBase": 50.0,
+    "categoria": "Bebidas"
+  },
+  {
+    "id": 106,
+    "nombre": "Cerveza Victoria Mega",
+    "descripcion": "Bien fría lista para acompañar snacks",
+    "precioBase": 50.0,
+    "categoria": "Bebidas"
+  }
+]
